@@ -1,0 +1,304 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+    
+.navbar{
+    background-color: rgb(255, 253, 253);
+    
+    
+}
+.navbar ,ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+ul{
+    margin-left: 750px;
+}
+li{
+    margin-top: 15px;
+}
+.icon{
+    margin-left: 150px;
+    background-color: rgb(255, 204, 0);
+    padding: 5px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+.i1{
+    margin-left: 575px;
+    width: 390px;
+    height: 50px;
+    border-radius: 5px;
+    border: 0.5px solid grey;
+}       
+.btn1{
+    background-color: rgb(255, 204, 0);
+    margin-left: 575px;
+    width: 390px;
+    height: 50px;
+    border-radius: 5px;
+    border: 0.5px solid grey;
+    font-weight: bold;
+    
+}
+.btn2{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 200px;
+    height: 60px;
+    border-radius: 50px;
+    border: 0.5px solid grey;
+    margin-left: 275p;
+    font-size: large;
+    
+    
+}
+.btn3{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 200px;
+    height: 60px;
+    border-radius: 50px;
+    border: 0.5px solid grey;
+    margin-left: 275p;
+    font-size: large;
+    
+    
+}
+
+    
+.form{
+    padding: 15px;
+    background: url(./watbox-dirty-1041382_1920.jpg);
+    padding-bottom: 50px;
+}
+.services-head{
+    margin-right: 1000px;
+}
+.images img {
+    height: 125px;
+    width: 125px;
+    margin: 85px;
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px black;
+}
+.images2 img {
+    height: 125px;
+    width: 125px;
+    margin: 85px;
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px black;
+}
+.images{
+    margin-left: 100px;
+    
+}
+.images2{
+    margin-left: 100px;
+}
+.ride{
+    background-color: rgb(226, 225, 225);
+    display: flex;
+    height: 500px;
+    width: 100%
+}
+.para{
+    margin-left: 50px;
+    margin-top: 10px;
+    height: 70%;
+    width: 600px;
+    
+}
+.para{
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 70%;
+    width: 600px;
+    
+}
+.para-images{
+    width: 70%;
+    height: 300px;
+    margin-left: 250px;
+}
+.ss{
+    height: 400px;
+    width: 400px;
+    padding: 0px;
+    
+}
+.ss2{
+    height: 400px;
+    width: 650px;
+    padding: 0px;
+    
+}
+p{
+    height: 600px;
+    width: 600px;
+    margin-left: 200px;
+    font-size: xx-large;
+}
+.rider{
+      background-color: rgb(241, 235, 235);
+    display: flex;
+    height: 500px;
+    width: 100%
+}
+.rides{
+      background-color: rgb(226, 225, 225);
+    display: flex;
+    height: 500px;
+    width: 100%
+}
+.para-images2{
+    width: 70%;
+    height: 300px;
+    margin-left: 250px;
+}
+.para-images3{
+    width: 100%;
+    height: 300px;
+    margin-left: 150px;
+}
+
+.down {
+    background-color: black;
+    padding: 80px 0;
+    text-align: center;
+    height: 350px;
+}
+
+
+.down h2 {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+
+.line {
+    width: 80px;
+    height: 4px;
+    background-color: rgb(255, 204, 0);
+    margin: 0 auto 60px;
+}
+
+
+.apps {
+    display: flex;
+    justify-content: center;
+    gap: 275px;
+}
+
+
+.rap,
+.rapi {
+    width: 110px;
+    height: 110px;
+    border-radius: 30px;
+}
+
+
+.appp {
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    margin-top: 30px;
+    color: white;
+    font-size: 24px;
+}
+
+
+.appp p {
+    margin: 0;
+    width: 260px;
+    text-align: center;
+}
+
+
+.footer {
+  background-color: white;
+  padding: 40px 120px;
+  font-family: sans-serif;
+}
+
+
+.footer .social {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 25px;
+}
+
+
+.footer .social img {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+
+.footer hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 30px 0;
+}
+
+
+.footer-content {
+  display: flex;
+  gap: 140px;
+}
+
+
+.footer-left {
+  display: flex;
+  gap: 80px;
+}
+
+
+.footer-logo {
+  width: 90px;
+  height: 60px;
+  border-radius: 25px;
+}
+
+
+.footer ul {
+  display: block !important;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer ul li {
+  display: block !important;
+  margin-bottom: 14px;
+  font-size: 16px;
+}
+
+
+.footer-right {
+  margin-top: 40px;
+}
+
+
+.copyright {
+  text-align: center;
+  color: gray;
+  margin-top: 30px;
+  font-size: 16px;
+}
+
+
